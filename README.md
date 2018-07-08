@@ -1,2 +1,4 @@
 # hello-world1
-my first code to be posted
+My first code to be posted.
+This will really be awesome.
+'Cause i'm Zaphod.
